@@ -1,0 +1,32 @@
+"filename", "language", "HTML", "JavaScript", "SCSS", "CSS", "comment", "blank", "total"
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/about-page.html", "HTML", 11, 0, 0, 0, 0, 1, 12
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/css/app.css", "CSS", 0, 0, 0, 86, 2, 11, 99
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/index.html", "HTML", 14, 0, 0, 0, 0, 0, 14
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/js/app-min.js", "JavaScript", 0, 1, 0, 0, 0, 0, 1
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/js/app.js", "JavaScript", 0, 20, 0, 0, 1, 2, 23
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/partial-pages/footer.html", "HTML", 2, 0, 0, 0, 0, 1, 3
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/partial-pages/header.html", "HTML", 2, 0, 0, 0, 1, 0, 3
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/partial-pages/notification.html", "HTML", 59, 0, 0, 0, 0, 4, 63
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/_icons.scss", "SCSS", 0, 0, 3, 0, 0, 0, 3
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/app.scss", "SCSS", 0, 0, 14, 0, 1, 3, 18
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_alert.scss", "SCSS", 0, 0, 12, 0, 0, 4, 16
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_backdrop.scss", "SCSS", 0, 0, 14, 0, 0, 2, 16
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_border-radius.scss", "SCSS", 0, 0, 42, 0, 0, 9, 51
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_box-shodow.scss", "SCSS", 0, 0, 16, 0, 0, 3, 19
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_breakpoint.scss", "SCSS", 0, 0, 73, 0, 0, 11, 84
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_buttons.scss", "SCSS", 0, 0, 47, 0, 0, 2, 49
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_deprecate.scss", "SCSS", 0, 0, 5, 0, 0, 0, 5
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_utility.scss", "SCSS", 0, 0, 83, 0, 0, 20, 103
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_base.scss", "SCSS", 0, 0, 12, 0, 0, 1, 13
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_buttons.scss", "SCSS", 0, 0, 51, 0, 2, 11, 64
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_custom-checkbox.scss", "SCSS", 0, 0, 10, 0, 0, 1, 11
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_footer.scss", "SCSS", 0, 0, 0, 0, 0, 1, 1
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_header.scss", "SCSS", 0, 0, 4, 0, 0, 1, 5
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_mixins.scss", "SCSS", 0, 0, 0, 0, 0, 1, 1
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_notification.scss", "SCSS", 0, 0, 11, 0, 0, 2, 13
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_tables.scss", "SCSS", 0, 0, 15, 0, 0, 3, 18
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_vars.scss", "SCSS", 0, 0, 25, 0, 0, 5, 30
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/tables.html", "HTML", 76, 0, 0, 0, 0, 4, 80
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/server/server-min.js", "JavaScript", 0, 1, 0, 0, 0, 0, 1
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/server/server.js", "JavaScript", 0, 10, 0, 0, 2, 3, 15
+"Total", "-", 164, 32, 437, 86, 9, 106, 834

@@ -1,0 +1,22 @@
+@mixin table-variants() {
+    .table-#{$state} {
+        $color: color-contrast(opaue($bpdy-bg, $background));
+        $hover-bg: mix($color, $background, percentage($table-hover-bg-factor));
+        $striped-bg: mix($color, $background, percentage($table-striped-bg-factor));
+        $active-bg: mix($color, $background, percentage($table-active-bg-factor));
+        $table-border-color: mix($color, $background, percentage($table-border-color-factor));
+
+        --#{$prefix}table-color: #{$color};
+        --#{$prefix}table-bg: #{$background};
+        --#{$prefix}table-border-color: #{$table-border-color};
+        --#{$prefix}table-stri9ped-bg: #{$striped-bg};
+        --#{$prefix}table-striped-color: #{color-contrast($striped-bg)};
+        --#{$prefix}table-active-bg: #($active-bg);
+        --#{$prefix}table-active-color: #{color-contrast($actove-color)};
+        --#{$prefix}table-hover-bg: #($hover-bg);
+        --#{$prefix}table-hover-color: #{color-contrast($hover-bg)};
+
+        color: var(--#{$prefix}table-color);
+        border-color: var(--#{$prefix}table-border-color);
+    }   
+}

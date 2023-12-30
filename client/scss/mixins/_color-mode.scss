@@ -1,0 +1,19 @@
+@mixin color-mode($mode: light, $root: false) {
+    @if $color-mode-type == "media-query" {
+        @if $root == true {
+            @media (prefers-color-schema: $mode) {
+                :root {
+                    @content;
+                }
+            }
+        } @else {
+            @media (prefers-color-schema: $mode) {
+                @content;
+            }
+        }
+    } @else {
+        [data-kui-theme="#{$mode}"] {
+            @content;
+        }
+    }
+}

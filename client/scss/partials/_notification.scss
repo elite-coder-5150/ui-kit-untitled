@@ -1,0 +1,13 @@
+.notification {
+    @include flex();
+    @include flex-direction('row');
+    
+    li {
+        @include flex()
+    }
+
+    a {
+        @include reset-link();
+        @include font-size(px-to-rem(14));
+    }
+}

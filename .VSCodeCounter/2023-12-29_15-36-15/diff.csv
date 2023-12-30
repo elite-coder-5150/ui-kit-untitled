@@ -1,0 +1,14 @@
+"filename", "language", "SCSS", "CSS", "comment", "blank", "total"
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/css/app.css", "CSS", 0, 18, 1, 0, 19
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/app.scss", "SCSS", 5, 0, 1, 2, 8
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_alert.scss", "SCSS", -1, 0, 0, 1, 0
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_backdrop.scss", "SCSS", 14, 0, 0, 2, 16
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_bacldrop.scss", "SCSS", -14, 0, 0, -2, -16
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_box-shodow.scss", "SCSS", 16, 0, 0, 3, 19
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_breakpoint.scss", "SCSS", 73, 0, 0, 11, 84
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_buttons.scss", "SCSS", 47, 0, 0, 2, 49
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_buttons.scss", "SCSS", 24, 0, 1, 5, 30
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_mixins.scss", "SCSS", -5, 0, 0, 0, -5
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_notification.scss", "SCSS", 11, 0, 0, 2, 13
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/notification.scss", "SCSS", -11, 0, 0, -2, -13
+"Total", "-", 159, 18, 3, 24, 204

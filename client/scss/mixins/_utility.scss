@@ -1,0 +1,103 @@
+@mixin flex() {
+    display: flex;
+}
+
+@mixin flex-direction($direction) {
+    @if ($direction == 'column') {
+        flex-direction: column;
+    } @else if ($direction == 'row') {
+        flex-direction: row;
+    } @else if ($direction == 'column-reverse') {
+        flex-direction: column-reverse;
+    } @else if ($direction == 'row-reverse') {
+        flex-direction: row-reverse;
+    }
+}
+
+@mixin table() {
+    display: table;
+    border-collapse: collapse;
+}
+
+@mixin mobile {
+    @media(width <= #{$mobile-width}) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media(min-width: #{$desktop-width}) {
+        @content;
+    }
+}
+
+@function px-to-rem($px, $value: 16) {
+    $result: calc($px / $value) * 1rem;
+    @return $result;
+}
+
+@mixin status() {
+    &.read {
+        background: $clr-notification-read;
+    }
+
+    &.unread {
+        background: $clr-notification-unread;
+    }
+}
+
+@mixin align-text ($direction) {
+    @if ($direction == 'right') {
+        text-align: right;
+    } @else if ($direction == 'left') {
+        text-align: left;
+    } @else if ($direction == 'center') {
+        text-align: center;
+    }
+}
+
+@mixin size($width, $height) {
+    width: px-to-rem($width);
+    height: px-to-rem($height);
+}
+
+
+@mixin margin-left($value) {
+    margin-left: $value;
+}
+
+@mixin margin-right($value) {
+    margin-right: $value;
+}
+
+@mixin margin-top($value) {
+    margin-top: $value;
+}
+
+@mixin margin-bottom($value) {
+    margin-bottom: $value;
+}
+
+@mixin margin-all($value) {
+    margin: $value;
+}
+
+@mixin font-size($size) {
+    font-size: $size;
+}
+
+@mixin font-color($color) {
+    color: $color;
+}
+
+@mixin font-weight($weight) {
+    font-weight: $weight;
+}
+
+@mixin reset-link() {
+    text-decoration: none;
+}
+
+@mixin unstyled-list() {
+    list-style: none;
+}

@@ -1,0 +1,73 @@
+Date : 2023-12-29 17:14:07
+Directory : /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled
+Total : 36 files,  930 codes, 11 comments, 133 blanks, all 1074 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| SCSS       |         25 |        648 |          5 |        107 |        760 |
+| HTML       |          6 |        164 |          1 |         10 |        175 |
+| CSS        |          1 |         86 |          2 |         11 |         99 |
+| JavaScript |          4 |         32 |          3 |          5 |         40 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                   |         36 |        930 |         11 |        133 |      1,074 |
+| client                                                                                              |         34 |        919 |          9 |        130 |      1,058 |
+| client (Files)                                                                                      |          3 |        101 |          0 |          5 |        106 |
+| client/css                                                                                          |          1 |         86 |          2 |         11 |         99 |
+| client/js                                                                                           |          2 |         21 |          1 |          2 |         24 |
+| client/partial-pages                                                                                |          3 |         63 |          1 |          5 |         69 |
+| client/scss                                                                                         |         25 |        648 |          5 |        107 |        760 |
+| client/scss (Files)                                                                                 |          2 |         23 |          1 |          4 |         28 |
+| client/scss/mixins                                                                                  |         14 |        497 |          2 |         77 |        576 |
+| client/scss/partials                                                                                |          9 |        128 |          2 |         26 |        156 |
+| server                                                                                              |          2 |         11 |          2 |          3 |         16 |
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                            | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/about-page.html                     | HTML       |         11 |          0 |          1 |         12 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/css/app.css                         | CSS        |         86 |          2 |         11 |         99 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/index.html                          | HTML       |         14 |          0 |          0 |         14 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/js/app-min.js                       | JavaScript |          1 |          0 |          0 |          1 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/js/app.js                           | JavaScript |         20 |          1 |          2 |         23 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/partial-pages/footer.html           | HTML       |          2 |          0 |          1 |          3 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/partial-pages/header.html           | HTML       |          2 |          1 |          0 |          3 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/partial-pages/notification.html     | HTML       |         59 |          0 |          4 |         63 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/_icons.scss                    | SCSS       |          3 |          0 |          0 |          3 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/app.scss                       | SCSS       |         20 |          1 |          4 |         25 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_alert.scss             | SCSS       |         12 |          0 |          4 |         16 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_backdrop.scss          | SCSS       |         14 |          0 |          2 |         16 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_border-radius.scss     | SCSS       |         42 |          0 |          9 |         51 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_box-shodow.scss        | SCSS       |         16 |          0 |          3 |         19 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_breakpoint.scss        | SCSS       |         73 |          0 |         11 |         84 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_buttons.scss           | SCSS       |         56 |          0 |          4 |         60 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_caret.scss             | SCSS       |         66 |          0 |          9 |         75 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_clearfix.scss          | SCSS       |          7 |          0 |          0 |          7 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_color-mode.scss        | SCSS       |         19 |          0 |          0 |         19 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_color-schemas.scss     | SCSS       |          5 |          0 |          0 |          5 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_container.scss         | SCSS       |          9 |          0 |          0 |          9 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_deprecate.scss         | SCSS       |          5 |          0 |          0 |          5 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_forms.scss             | SCSS       |         90 |          2 |         15 |        107 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_utility.scss           | SCSS       |         83 |          0 |         20 |        103 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_base.scss            | SCSS       |         12 |          0 |          1 |         13 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_buttons.scss         | SCSS       |         51 |          2 |         11 |         64 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_custom-checkbox.scss | SCSS       |         10 |          0 |          1 |         11 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_footer.scss          | SCSS       |          0 |          0 |          1 |          1 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_header.scss          | SCSS       |          4 |          0 |          1 |          5 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_mixins.scss          | SCSS       |          0 |          0 |          1 |          1 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_notification.scss    | SCSS       |         11 |          0 |          2 |         13 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_tables.scss          | SCSS       |         15 |          0 |          3 |         18 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_vars.scss            | SCSS       |         25 |          0 |          5 |         30 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/tables.html                         | HTML       |         76 |          0 |          4 |         80 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/server/server-min.js                       | JavaScript |          1 |          0 |          0 |          1 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/server/server.js                           | JavaScript |         10 |          2 |          3 |         15 |
+| Total                                                                                               |            |        930 |         11 |        133 |      1,074 |
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

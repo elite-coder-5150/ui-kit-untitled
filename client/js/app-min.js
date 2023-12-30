@@ -1,0 +1,1 @@
+export class App{init(){this.cacheDom(),this.initEvents(),this.checked=!1}cacheDom(){this.checkbox=document.querySelector(".checkbox")}initEvents(){this.checkbox.addEventListener("click",this.toggleCheck)}toggleCheck(){this.checkbox.classList.contains("checked")||this.checkbox.classList.add("checked")}}

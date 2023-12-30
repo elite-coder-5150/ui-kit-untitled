@@ -1,0 +1,18 @@
+table {
+    @include table();
+}
+.inventory__table {
+    @include table();
+}
+
+.blocked-users__table {
+    @include table();
+}
+
+.team__table {
+    @include table();
+}
+
+.users__table {
+    @include table();
+}

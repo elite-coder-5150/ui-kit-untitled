@@ -1,0 +1,14 @@
+"filename", "language", "Markdown", "HTML", "SCSS", "comment", "blank", "total"
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/README.html", "HTML", 0, 9, 0, 0, 4, 13
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/README.md", "Markdown", 1, 0, 0, 0, 0, 1
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/app.scss", "SCSS", 0, 0, 7, 0, -1, 6
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_grid.scss", "SCSS", 0, 0, 107, 0, 18, 125
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_image.scss", "SCSS", 0, 0, 4, 0, 0, 4
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_list.scss", "SCSS", 0, 0, 4, 0, 0, 4
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_pagination.scss", "SCSS", 0, 0, 6, 0, 1, 7
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_reset-text.scss", "SCSS", 0, 0, 16, 0, 0, 16
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_resize.scss", "SCSS", 0, 0, 4, 0, 0, 4
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_table-variants.scss", "SCSS", 0, 0, 2, 0, 1, 3
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_grid.scss", "SCSS", 0, 0, 25, 0, 5, 30
+"/Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_vars.scss", "SCSS", 0, 0, 1171, 269, 304, 1744
+"Total", "-", 1, 9, 1346, 269, 332, 1957

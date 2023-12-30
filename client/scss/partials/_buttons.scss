@@ -1,0 +1,64 @@
+.btn {
+    &.sm {
+        padding: 2px 4px;
+        @include flex();
+        
+        &.solid {
+            &-primary {
+                /** this value cam from pixcure application */
+                background: $clr-primary; 
+                border: 1px solid $clr-primary;
+            }
+
+            &-secondary {
+                background: $clr-notification-read;
+                border: 1px solid $clr-base-border;
+            }
+
+            &-rounded {
+                &-sm {
+                    border-radius: 4px;
+                }
+
+                &-md {
+                    border-radius: 6px;
+                }
+
+                &-lg {
+                    border-radius: 8px;
+                }
+            }
+        }
+    }
+
+    &.sm {
+        padding: 2px 4px;
+
+        &.solid {
+            &-primary {
+                /** this value cam from pixcure application */
+                background: $clr-primary; 
+                border: 1px solid $clr-primary;
+            }
+
+            &-secondary {
+                background: $clr-notification-read;
+                border: 1px solid $clr-base-border;
+            }
+
+            &-rounded {
+                &-sm {
+                    border-radius: 4px;
+                }
+
+                &-md {
+                    border-radius: 6px;
+                }
+
+                &-lg {
+                    border-radius: 8px;
+                }
+            }
+        }
+    }
+}

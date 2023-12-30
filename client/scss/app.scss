@@ -1,0 +1,31 @@
+@import "partials/vars";
+@import "partials/base";
+@import "partials/footer";
+@import "partials/header";
+// @import "partials/mixins";
+@import "partials/notification";
+@import "partials/tables";
+@import "partials/buttons";
+@import "partials/grid";
+
+@import "mixins/alert";
+@import "mixins/backdrop";
+@import "mixins/border-radius";
+@import "mixins/utility";
+@import "mixins/box-shodow";
+@import "mixins/breakpoint";
+@import "mixins/buttons";
+@import "mixins/caret";
+@import "mixins/clearfix";
+@import "mixins/container";
+@import "mixins/forms"; // clean up the mess.
+@import "mixins/grid";
+@import "mixins/image";
+@import "mixins/pagination";
+@import "mixins/reset-text";
+@import "mixins/resize";
+
+@import "mixins/color-mode";
+@import "mixins/color-schemas";
+
+@import "icons";

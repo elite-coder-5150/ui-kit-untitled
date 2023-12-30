@@ -1,0 +1,5 @@
+@import "../mixins/utility";
+
+header {
+    @include flex();
+}

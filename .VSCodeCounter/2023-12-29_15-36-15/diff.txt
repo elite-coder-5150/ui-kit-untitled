@@ -1,0 +1,43 @@
+Date : 2023-12-29 15:36:15
+Directory : /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled
+Total : 12 files,  177 codes, 3 comments, 24 blanks, all 204 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| SCSS     |         11 |        159 |          2 |         24 |        185 |
+| CSS      |          1 |         18 |          1 |          0 |         19 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                             | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                |         12 |        177 |          3 |         24 |        204 |
+| client                                                                                           |         12 |        177 |          3 |         24 |        204 |
+| client/css                                                                                       |          1 |         18 |          1 |          0 |         19 |
+| client/scss                                                                                      |         11 |        159 |          2 |         24 |        185 |
+| client/scss (Files)                                                                              |          1 |          5 |          1 |          2 |          8 |
+| client/scss/mixins                                                                               |          6 |        135 |          0 |         17 |        152 |
+| client/scss/partials                                                                             |          4 |         19 |          1 |          5 |         25 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                         | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/css/app.css                      | CSS      |         18 |          1 |          0 |         19 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/app.scss                    | SCSS     |          5 |          1 |          2 |          8 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_alert.scss          | SCSS     |         -1 |          0 |          1 |          0 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_backdrop.scss       | SCSS     |         14 |          0 |          2 |         16 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_bacldrop.scss       | SCSS     |        -14 |          0 |         -2 |        -16 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_box-shodow.scss     | SCSS     |         16 |          0 |          3 |         19 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_breakpoint.scss     | SCSS     |         73 |          0 |         11 |         84 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/mixins/_buttons.scss        | SCSS     |         47 |          0 |          2 |         49 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_buttons.scss      | SCSS     |         24 |          1 |          5 |         30 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_mixins.scss       | SCSS     |         -5 |          0 |          0 |         -5 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/_notification.scss | SCSS     |         11 |          0 |          2 |         13 |
+| /Users/darrellparkhouse/projects/ui kits/ui-kit-untitled/client/scss/partials/notification.scss  | SCSS     |        -11 |          0 |         -2 |        -13 |
+| Total                                                                                            |          |        177 |          3 |         24 |        204 |
++--------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

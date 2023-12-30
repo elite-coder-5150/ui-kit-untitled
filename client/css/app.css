@@ -1,0 +1,98 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+header {
+  display: flex;
+}
+
+.notification {
+  display: flex;
+  flex-direction: row;
+}
+.notification li {
+  display: flex;
+}
+.notification a {
+  text-decoration: none;
+  font-size: 0.875rem;
+}
+
+table {
+  display: table;
+  border-collapse: collapse;
+}
+
+.inventory__table {
+  display: table;
+  border-collapse: collapse;
+}
+
+.blocked-users__table {
+  display: table;
+  border-collapse: collapse;
+}
+
+.team__table {
+  display: table;
+  border-collapse: collapse;
+}
+
+.users__table {
+  display: table;
+  border-collapse: collapse;
+}
+
+.btn.sm {
+  padding: 2px 4px;
+  display: flex;
+}
+.btn.sm.solid-primary {
+  /** this value cam from pixcure application */
+  background: #A464DF;
+  border: 1px solid #A464DF;
+}
+.btn.sm.solid-secondary {
+  background: #ffffff;
+  border: 1px solid #D0D5DD;
+}
+.btn.sm.solid-rounded-sm {
+  border-radius: 4px;
+}
+.btn.sm.solid-rounded-md {
+  border-radius: 6px;
+}
+.btn.sm.solid-rounded-lg {
+  border-radius: 8px;
+}
+.btn.sm {
+  padding: 2px 4px;
+}
+.btn.sm.solid-primary {
+  /** this value cam from pixcure application */
+  background: #A464DF;
+  border: 1px solid #A464DF;
+}
+.btn.sm.solid-secondary {
+  background: #ffffff;
+  border: 1px solid #D0D5DD;
+}
+.btn.sm.solid-rounded-sm {
+  border-radius: 4px;
+}
+.btn.sm.solid-rounded-md {
+  border-radius: 6px;
+}
+.btn.sm.solid-rounded-lg {
+  border-radius: 8px;
+}
+
+.notification-icon {
+  background: url("") no-repeat;
+}
